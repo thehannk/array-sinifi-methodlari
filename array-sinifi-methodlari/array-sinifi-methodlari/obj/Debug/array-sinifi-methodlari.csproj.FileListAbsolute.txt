@@ -1,0 +1,8 @@
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\obj\Debug\array-sinifi-methodlari.csproj.AssemblyReference.cache
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\obj\Debug\array-sinifi-methodlari.csproj.SuggestedBindingRedirects.cache
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\obj\Debug\array-sinifi-methodlari.csproj.CoreCompileInputs.cache
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\bin\Debug\array-sinifi-methodlari.exe.config
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\bin\Debug\array-sinifi-methodlari.exe
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\bin\Debug\array-sinifi-methodlari.pdb
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\obj\Debug\array-sinifi-methodlari.exe
+C:\Users\hank\Desktop\framework\array-sinifi-methodlari\array-sinifi-methodlari\obj\Debug\array-sinifi-methodlari.pdb
